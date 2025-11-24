@@ -7,7 +7,7 @@ Efficient Universe Hypothesis (EUH) – Complete 6+ Part Series
 An independent research program developed 2022–2025 in Ontario, Canada.
 Papers (all permanently archived on Zenodo with DOIs)
 
-EUH Foundation →  [DOI] (https://zenodo.org/badge/1101467954.svg)(https://doi.org/10.5281/zenodo.17701047)
+EUH Foundation →  [DOI] (https://zenodo.org/badge/1101467954.svg)%5D(https://doi.org/10.5281/zenodo.17701047)
 CHF – Coherent Harmonic Field →
 TTF – Triadic Topological Framework →
 GFE – Gretzky Forecasting Engine →
